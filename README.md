@@ -20,3 +20,11 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+- 
+This Pull Request adds the Member Management Module to the Smart Library Management System.
+
+Features Added:
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
