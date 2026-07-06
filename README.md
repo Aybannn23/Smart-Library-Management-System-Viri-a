@@ -9,9 +9,9 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Student Name:
-Course:
-Sectio
+Student Name:Viriña, Ivan J
+Course:IT 3012
+Section:sd-2c
 
 Member Management Module
 
