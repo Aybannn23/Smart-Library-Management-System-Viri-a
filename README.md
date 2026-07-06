@@ -28,3 +28,10 @@ Features Added:
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Project Modules
+
+- Member Management
+- Book Catalog
+- Borrowing
+- Returning
